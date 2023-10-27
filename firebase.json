@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "tic-tac-toe-jerry",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

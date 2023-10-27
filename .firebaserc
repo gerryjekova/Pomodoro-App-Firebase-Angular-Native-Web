@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-angular-jerry": {
+      "hosting": {
+        "tic-tac-toe-jerry": [
+          "tic-tac-toe-angular-jerry"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-angular-jerry"
+  }
+}
