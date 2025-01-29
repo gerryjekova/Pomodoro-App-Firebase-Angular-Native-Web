@@ -2,18 +2,18 @@
 > Recapping Angular by trying to transform my old Tic-Tac-Toe into a Pomodoro =D 
 >> ## Features
 >>
->>>### Core Features:
->>
->>> - A customizable Pomodoro timer for work/break intervals. [ ]
->>> - Task list integration to track what you're working on. [ ]
->>> - Visual progress indicators (e.g., progress bars or status updates). [ ]
->>
+## Core Features:
+
+- A customizable Pomodoro timer for work/break intervals. [ ]
+- Task list integration to track what you're working on. [ ]
+- Visual progress indicators (e.g., progress bars or status updates). [ ]
+
 > **Interesting to look into in the future (?) :**
 - Add **gamification** elements. [ ]
 - Save **session history** using *local storage* or **backend** (Firebase) integration - as a local + web app.
 - Add animations for the transitions between the states (and stuff).
 
-> ## Tech Stack
+## Tech Stack
 - **Angular**: Framework for building the app.  
 - **TypeScript**: Strongly typed JavaScript for better structure and reliability.  
 - **HTML/CSS**: For the UI.  
@@ -21,13 +21,13 @@
 
 ## Setup & Installation
 
-- 1. Clone the Repo:
+- Clone the Repo:
 
 ```
 git clone <your-repo-link>
 ```
 
-> Then move into the /app directory! (typically `/your-repo/src/app`)
+- Then move into the /app directory! (typically `/your-repo/src/app`)
 
 ## Install Dependencies:
 
@@ -45,9 +45,9 @@ ng serve
 
 ## How I See it Working
 
-- 1. Set a timer for your work interval and break.
-- 2. Add tasks to your task list and track them during work sessions.
-- 3. Use the timer to stay focused and productive.
+- Set a timer countdown for your productive intervals and pauses.
+- Add tasks to your task list and track them during work sessions.
+- Use the timer to stay focused and productive.
 
 ## Planned Features
 
