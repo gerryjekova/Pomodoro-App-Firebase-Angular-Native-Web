@@ -96,3 +96,7 @@ ng serve
 
 - Because I like picking apart code much more than building it from scratch. ~
 
+---
+### Technologies I am considering including: 
+[Angular Bootstrap](https://ng-bootstrap.github.io/#/home)
+
